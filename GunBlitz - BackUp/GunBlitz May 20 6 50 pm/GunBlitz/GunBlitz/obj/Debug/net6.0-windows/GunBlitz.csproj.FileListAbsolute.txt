@@ -1,0 +1,85 @@
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.exe
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.deps.json
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.runtimeconfig.json
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.dll
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.pdb
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.Levels.resources
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.MainMenu.resources
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.Tutorial_lvl_1.resources
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.csproj.GenerateResource.cache
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.AssemblyInfoInputs.cache
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.AssemblyInfo.cs
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.dll
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\refint\GunBlitz.dll
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.pdb
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.genruntimeconfig.cache
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\ref\GunBlitz.dll
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.Properties.Resources.resources
+C:\Users\Emmanuel\Desktop\Amba\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.Tutorial_lvl_2.resources
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.exe
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.deps.json
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.runtimeconfig.json
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.dll
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.pdb
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.Levels.resources
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.MainMenu.resources
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.Properties.Resources.resources
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.Tutorial_lvl_1.resources
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.Tutorial_lvl_2.resources
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.csproj.GenerateResource.cache
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.AssemblyInfoInputs.cache
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.AssemblyInfo.cs
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.dll
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\refint\GunBlitz.dll
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.pdb
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.genruntimeconfig.cache
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\ref\GunBlitz.dll
+C:\Users\Emmanuel\Desktop\Comprog\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.SampleLevel.resources
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.exe
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.deps.json
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.runtimeconfig.json
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.dll
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.pdb
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz._1st_BossFight.resources
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.Levels.resources
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.MainMenu.resources
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.Properties.Resources.resources
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.SampleLevel.resources
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.Tutorial_lvl_1.resources
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.Tutorial_lvl_2.resources
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.csproj.GenerateResource.cache
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.AssemblyInfoInputs.cache
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.AssemblyInfo.cs
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.dll
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\refint\GunBlitz.dll
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.pdb
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.genruntimeconfig.cache
+C:\Users\Emmanuel\Desktop\Comprog\Testing Grounds\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\ref\GunBlitz.dll
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.exe
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.deps.json
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.runtimeconfig.json
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.dll
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\bin\Debug\net6.0-windows\GunBlitz.pdb
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz._1st_BossFight.resources
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.Levels.resources
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.MainMenu.resources
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.Properties.Resources.resources
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.SampleLevel.resources
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.Tutorial_lvl_1.resources
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.Tutorial_lvl_2.resources
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.csproj.GenerateResource.cache
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.AssemblyInfoInputs.cache
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.AssemblyInfo.cs
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.dll
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\refint\GunBlitz.dll
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.pdb
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\GunBlitz.genruntimeconfig.cache
+C:\Users\Emmanuel\Desktop\Comprog\New folder\GunBlitz May 20 4 48 pm\GunBlitz\GunBlitz\obj\Debug\net6.0-windows\ref\GunBlitz.dll
