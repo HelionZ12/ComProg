@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emmanuel\\Desktop\\Comprog\\New folder\\GunBlitz May 20 6 50 pm\\GunBlitz\\GunBlitz\\GunBlitz.csproj": {}
+    "C:\\Users\\Emmanuel\\Desktop\\Comprog\\Attempt 1\\ComProg\\GunBlitz - BackUp\\GunBlitz May 20 7 15 pm\\GunBlitz\\GunBlitz\\GunBlitz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emmanuel\\Desktop\\Comprog\\New folder\\GunBlitz May 20 6 50 pm\\GunBlitz\\GunBlitz\\GunBlitz.csproj": {
+    "C:\\Users\\Emmanuel\\Desktop\\Comprog\\Attempt 1\\ComProg\\GunBlitz - BackUp\\GunBlitz May 20 7 15 pm\\GunBlitz\\GunBlitz\\GunBlitz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emmanuel\\Desktop\\Comprog\\New folder\\GunBlitz May 20 6 50 pm\\GunBlitz\\GunBlitz\\GunBlitz.csproj",
+        "projectUniqueName": "C:\\Users\\Emmanuel\\Desktop\\Comprog\\Attempt 1\\ComProg\\GunBlitz - BackUp\\GunBlitz May 20 7 15 pm\\GunBlitz\\GunBlitz\\GunBlitz.csproj",
         "projectName": "GunBlitz",
-        "projectPath": "C:\\Users\\Emmanuel\\Desktop\\Comprog\\New folder\\GunBlitz May 20 6 50 pm\\GunBlitz\\GunBlitz\\GunBlitz.csproj",
+        "projectPath": "C:\\Users\\Emmanuel\\Desktop\\Comprog\\Attempt 1\\ComProg\\GunBlitz - BackUp\\GunBlitz May 20 7 15 pm\\GunBlitz\\GunBlitz\\GunBlitz.csproj",
         "packagesPath": "C:\\Users\\Emmanuel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emmanuel\\Desktop\\Comprog\\New folder\\GunBlitz May 20 6 50 pm\\GunBlitz\\GunBlitz\\obj\\",
+        "outputPath": "C:\\Users\\Emmanuel\\Desktop\\Comprog\\Attempt 1\\ComProg\\GunBlitz - BackUp\\GunBlitz May 20 7 15 pm\\GunBlitz\\GunBlitz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emmanuel\\AppData\\Roaming\\NuGet\\NuGet.Config",

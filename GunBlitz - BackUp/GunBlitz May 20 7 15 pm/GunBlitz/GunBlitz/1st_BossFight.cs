@@ -85,10 +85,11 @@ namespace GunBlitz
             {
                 PlayerHp.Value = playerHealth;
             }
-            else if (playerHealth < 0)
+            else if (playerHealth == 0)
             {
                 GameTimer.Stop();
                 MessageBox.Show("You Have Been Defeated!");
+
             }
             player.Visible = true;
 

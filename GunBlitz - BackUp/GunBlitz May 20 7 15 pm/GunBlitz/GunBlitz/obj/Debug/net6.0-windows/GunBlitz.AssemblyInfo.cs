@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GunBlitz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16a6d943ba02a0b594c7468d34a5b8f4329f6b93")]
 [assembly: System.Reflection.AssemblyProductAttribute("GunBlitz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GunBlitz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
